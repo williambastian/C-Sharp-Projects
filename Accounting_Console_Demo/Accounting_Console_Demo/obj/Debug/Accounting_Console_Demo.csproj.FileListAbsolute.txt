@@ -1,0 +1,7 @@
+C:\Users\William\Desktop\Basic_C#_Programs\Accounting_Console_Demo\Accounting_Console_Demo\bin\Debug\Accounting_Console_Demo.exe.config
+C:\Users\William\Desktop\Basic_C#_Programs\Accounting_Console_Demo\Accounting_Console_Demo\bin\Debug\Accounting_Console_Demo.exe
+C:\Users\William\Desktop\Basic_C#_Programs\Accounting_Console_Demo\Accounting_Console_Demo\bin\Debug\Accounting_Console_Demo.pdb
+C:\Users\William\Desktop\Basic_C#_Programs\Accounting_Console_Demo\Accounting_Console_Demo\obj\Debug\Accounting_Console_Demo.csproj.AssemblyReference.cache
+C:\Users\William\Desktop\Basic_C#_Programs\Accounting_Console_Demo\Accounting_Console_Demo\obj\Debug\Accounting_Console_Demo.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\Basic_C#_Programs\Accounting_Console_Demo\Accounting_Console_Demo\obj\Debug\Accounting_Console_Demo.exe
+C:\Users\William\Desktop\Basic_C#_Programs\Accounting_Console_Demo\Accounting_Console_Demo\obj\Debug\Accounting_Console_Demo.pdb
