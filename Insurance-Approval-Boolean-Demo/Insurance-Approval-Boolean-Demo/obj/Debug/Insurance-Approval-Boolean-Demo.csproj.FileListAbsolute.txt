@@ -1,0 +1,7 @@
+C:\Users\William\Desktop\Basic_C#_Programs\Insurance-Approval-Boolean-Demo\Insurance-Approval-Boolean-Demo\bin\Debug\Insurance-Approval-Boolean-Demo.exe.config
+C:\Users\William\Desktop\Basic_C#_Programs\Insurance-Approval-Boolean-Demo\Insurance-Approval-Boolean-Demo\bin\Debug\Insurance-Approval-Boolean-Demo.exe
+C:\Users\William\Desktop\Basic_C#_Programs\Insurance-Approval-Boolean-Demo\Insurance-Approval-Boolean-Demo\bin\Debug\Insurance-Approval-Boolean-Demo.pdb
+C:\Users\William\Desktop\Basic_C#_Programs\Insurance-Approval-Boolean-Demo\Insurance-Approval-Boolean-Demo\obj\Debug\Insurance-Approval-Boolean-Demo.csproj.AssemblyReference.cache
+C:\Users\William\Desktop\Basic_C#_Programs\Insurance-Approval-Boolean-Demo\Insurance-Approval-Boolean-Demo\obj\Debug\Insurance-Approval-Boolean-Demo.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\Basic_C#_Programs\Insurance-Approval-Boolean-Demo\Insurance-Approval-Boolean-Demo\obj\Debug\Insurance-Approval-Boolean-Demo.exe
+C:\Users\William\Desktop\Basic_C#_Programs\Insurance-Approval-Boolean-Demo\Insurance-Approval-Boolean-Demo\obj\Debug\Insurance-Approval-Boolean-Demo.pdb
