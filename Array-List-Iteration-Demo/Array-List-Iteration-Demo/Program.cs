@@ -116,8 +116,8 @@ namespace Array_List_Iteration_Demo
             {
                 if (foodInput == foodList[i])
                 {
-                    Console.WriteLine("The list index for that item is " + i);
-                    i = (foodList.Count - 1); //  This sets the index value to the maximum as soon as a matching record is found
+                    Console.WriteLine("The list index for that item is " + i);                     
+                    break;       //This exists the loop as soon as a matching record is found
                 }
                 else if (i == (foodList.Count - 1) && (foodInput != foodList[i]))     //if the index is at its maximum value and no matching record has been found, print the not-found message.
                 {
