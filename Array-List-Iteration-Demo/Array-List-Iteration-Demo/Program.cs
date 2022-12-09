@@ -79,7 +79,7 @@ namespace Array_List_Iteration_Demo
 
             // For the next loop, we can use [ i <= (coffeeOrders.Length -1) ] to demonstrate the flexibility of defining parameters
             Console.WriteLine("\nDemo 3b: \n");
-            for (int i = 0; i <= (coffeeOrders.Length - 1); i++) //we use [ < ] as our comparison operator 
+            for (int i = 0; i <= (coffeeOrders.Length - 1); i++) //we use [ <= ] as our comparison operator 
             {
                 Console.WriteLine(coffeeOrders[i] + ", as a parameter demo");
             }
