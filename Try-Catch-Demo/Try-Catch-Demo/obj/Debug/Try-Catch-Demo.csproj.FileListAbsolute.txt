@@ -1,0 +1,7 @@
+C:\Users\William\Desktop\Basic_C#_Programs\Try-Catch-Demo\Try-Catch-Demo\bin\Debug\Try-Catch-Demo.exe.config
+C:\Users\William\Desktop\Basic_C#_Programs\Try-Catch-Demo\Try-Catch-Demo\bin\Debug\Try-Catch-Demo.exe
+C:\Users\William\Desktop\Basic_C#_Programs\Try-Catch-Demo\Try-Catch-Demo\bin\Debug\Try-Catch-Demo.pdb
+C:\Users\William\Desktop\Basic_C#_Programs\Try-Catch-Demo\Try-Catch-Demo\obj\Debug\Try-Catch-Demo.csproj.AssemblyReference.cache
+C:\Users\William\Desktop\Basic_C#_Programs\Try-Catch-Demo\Try-Catch-Demo\obj\Debug\Try-Catch-Demo.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\Basic_C#_Programs\Try-Catch-Demo\Try-Catch-Demo\obj\Debug\Try-Catch-Demo.exe
+C:\Users\William\Desktop\Basic_C#_Programs\Try-Catch-Demo\Try-Catch-Demo\obj\Debug\Try-Catch-Demo.pdb
