@@ -1,0 +1,7 @@
+C:\Users\William\Desktop\Basic_C#_Programs\Integer-Methods-Demo\Integer-Methods-Demo\bin\Debug\Integer-Methods-Demo.exe.config
+C:\Users\William\Desktop\Basic_C#_Programs\Integer-Methods-Demo\Integer-Methods-Demo\bin\Debug\Integer-Methods-Demo.exe
+C:\Users\William\Desktop\Basic_C#_Programs\Integer-Methods-Demo\Integer-Methods-Demo\bin\Debug\Integer-Methods-Demo.pdb
+C:\Users\William\Desktop\Basic_C#_Programs\Integer-Methods-Demo\Integer-Methods-Demo\obj\Debug\Integer-Methods-Demo.csproj.AssemblyReference.cache
+C:\Users\William\Desktop\Basic_C#_Programs\Integer-Methods-Demo\Integer-Methods-Demo\obj\Debug\Integer-Methods-Demo.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\Basic_C#_Programs\Integer-Methods-Demo\Integer-Methods-Demo\obj\Debug\Integer-Methods-Demo.exe
+C:\Users\William\Desktop\Basic_C#_Programs\Integer-Methods-Demo\Integer-Methods-Demo\obj\Debug\Integer-Methods-Demo.pdb
