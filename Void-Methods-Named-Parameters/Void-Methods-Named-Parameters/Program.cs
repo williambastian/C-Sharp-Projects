@@ -13,6 +13,8 @@ namespace Void_Methods_Named_Parameters
             try
             {
                 VoidMath voidMath = new VoidMath();   //instantiate class containing void method
+                Console.WriteLine("Here is an example of the custom voidMath.NamedParams() method.\nIf given two integers, this method will double the first integer and simply print the second.\nIf given 10 and 2, the method returns:");
+                voidMath.NamedParams(10, 2);
                 Console.WriteLine("Enter two integers.\nThe first integer will be doubled, and the second integer will be printed without changes.\nEnter the first integer now:");
                 int userNum1 = Convert.ToInt32(Console.ReadLine());     //convert user input to first integer
                 Console.WriteLine("Enter the second integer now:");
