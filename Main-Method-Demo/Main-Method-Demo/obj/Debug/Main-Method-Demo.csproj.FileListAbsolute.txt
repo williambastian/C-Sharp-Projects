@@ -1,0 +1,7 @@
+C:\Users\William\Desktop\Basic_C#_Programs\Main-Method-Demo\Main-Method-Demo\bin\Debug\Main-Method-Demo.exe.config
+C:\Users\William\Desktop\Basic_C#_Programs\Main-Method-Demo\Main-Method-Demo\bin\Debug\Main-Method-Demo.exe
+C:\Users\William\Desktop\Basic_C#_Programs\Main-Method-Demo\Main-Method-Demo\bin\Debug\Main-Method-Demo.pdb
+C:\Users\William\Desktop\Basic_C#_Programs\Main-Method-Demo\Main-Method-Demo\obj\Debug\Main-Method-Demo.csproj.AssemblyReference.cache
+C:\Users\William\Desktop\Basic_C#_Programs\Main-Method-Demo\Main-Method-Demo\obj\Debug\Main-Method-Demo.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\Basic_C#_Programs\Main-Method-Demo\Main-Method-Demo\obj\Debug\Main-Method-Demo.exe
+C:\Users\William\Desktop\Basic_C#_Programs\Main-Method-Demo\Main-Method-Demo\obj\Debug\Main-Method-Demo.pdb
