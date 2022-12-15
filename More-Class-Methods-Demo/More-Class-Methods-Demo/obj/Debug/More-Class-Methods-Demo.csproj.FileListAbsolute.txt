@@ -1,0 +1,7 @@
+C:\Users\William\Desktop\Basic_C#_Programs\More-Class-Methods-Demo\More-Class-Methods-Demo\bin\Debug\More-Class-Methods-Demo.exe.config
+C:\Users\William\Desktop\Basic_C#_Programs\More-Class-Methods-Demo\More-Class-Methods-Demo\bin\Debug\More-Class-Methods-Demo.exe
+C:\Users\William\Desktop\Basic_C#_Programs\More-Class-Methods-Demo\More-Class-Methods-Demo\bin\Debug\More-Class-Methods-Demo.pdb
+C:\Users\William\Desktop\Basic_C#_Programs\More-Class-Methods-Demo\More-Class-Methods-Demo\obj\Debug\More-Class-Methods-Demo.csproj.AssemblyReference.cache
+C:\Users\William\Desktop\Basic_C#_Programs\More-Class-Methods-Demo\More-Class-Methods-Demo\obj\Debug\More-Class-Methods-Demo.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\Basic_C#_Programs\More-Class-Methods-Demo\More-Class-Methods-Demo\obj\Debug\More-Class-Methods-Demo.exe
+C:\Users\William\Desktop\Basic_C#_Programs\More-Class-Methods-Demo\More-Class-Methods-Demo\obj\Debug\More-Class-Methods-Demo.pdb
