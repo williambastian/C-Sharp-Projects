@@ -12,10 +12,7 @@ namespace Abstract_Classes_Demo
         public string firstName;
         public string lastName;
 
-        public virtual void SayName()  // virtual method - allows us to change implementation of this method depending on which class inherits it
-                                       // for example, Employee.cs may have one implementation of SayName(), but another class, such as "Manager.cs" or "Executive.cs" could have a different implementation.
-        {
-           
-        }
+        public abstract void SayName();  // abstract method - implemented in Employee.cs
+        
     }
 }

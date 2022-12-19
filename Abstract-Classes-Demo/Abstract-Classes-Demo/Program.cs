@@ -18,7 +18,7 @@ namespace Abstract_Classes_Demo
             
 
             Employee employee = new Employee();      //instantiating from the child class, which inherited properties and a method from Person.cs
-                                                     // Even though the inherited virtual method SayName() had no implemenation in the base class (Person.cs),
+                                                     // Even though the inherited abstract method SayName() had no implemenation in the base class (Person.cs),
                                                      // the implementation can be defined in the child class (Employee.cs) as needed.
 
             employee.firstName = "Sample";
