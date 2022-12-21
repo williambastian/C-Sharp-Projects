@@ -25,9 +25,9 @@ namespace Overload_Operators_Demo
             employee2.Id = 2;
 
             Employee employee3 = new Employee();   // employee2 and employee3 have same values for FirstName and LastName, but different Id.
-            employee2.FirstName = "Jane";          // comparing with == should evaluate to False; with != to True 
-            employee2.LastName = "Doe";
-            employee2.Id = 3;
+            employee3.FirstName = "Jane";          // comparing with == should evaluate to False; with != to True 
+            employee3.LastName = "Doe";
+            employee3.Id = 3;
 
             Console.WriteLine(employee1 == employee2);     
             Console.WriteLine(employee1 != employee2);
