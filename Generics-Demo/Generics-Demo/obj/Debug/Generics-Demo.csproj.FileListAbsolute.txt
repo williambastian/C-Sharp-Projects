@@ -1,0 +1,7 @@
+C:\Users\William\Desktop\Basic_C#_Programs\Generics-Demo\Generics-Demo\bin\Debug\Generics-Demo.exe.config
+C:\Users\William\Desktop\Basic_C#_Programs\Generics-Demo\Generics-Demo\bin\Debug\Generics-Demo.exe
+C:\Users\William\Desktop\Basic_C#_Programs\Generics-Demo\Generics-Demo\bin\Debug\Generics-Demo.pdb
+C:\Users\William\Desktop\Basic_C#_Programs\Generics-Demo\Generics-Demo\obj\Debug\Generics-Demo.csproj.AssemblyReference.cache
+C:\Users\William\Desktop\Basic_C#_Programs\Generics-Demo\Generics-Demo\obj\Debug\Generics-Demo.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\Basic_C#_Programs\Generics-Demo\Generics-Demo\obj\Debug\Generics-Demo.exe
+C:\Users\William\Desktop\Basic_C#_Programs\Generics-Demo\Generics-Demo\obj\Debug\Generics-Demo.pdb
