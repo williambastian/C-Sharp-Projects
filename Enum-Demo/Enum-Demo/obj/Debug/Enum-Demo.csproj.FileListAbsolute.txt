@@ -1,0 +1,7 @@
+C:\Users\William\Desktop\Basic_C#_Programs\Enum-Demo\Enum-Demo\bin\Debug\Enum-Demo.exe.config
+C:\Users\William\Desktop\Basic_C#_Programs\Enum-Demo\Enum-Demo\bin\Debug\Enum-Demo.exe
+C:\Users\William\Desktop\Basic_C#_Programs\Enum-Demo\Enum-Demo\bin\Debug\Enum-Demo.pdb
+C:\Users\William\Desktop\Basic_C#_Programs\Enum-Demo\Enum-Demo\obj\Debug\Enum-Demo.csproj.AssemblyReference.cache
+C:\Users\William\Desktop\Basic_C#_Programs\Enum-Demo\Enum-Demo\obj\Debug\Enum-Demo.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\Basic_C#_Programs\Enum-Demo\Enum-Demo\obj\Debug\Enum-Demo.exe
+C:\Users\William\Desktop\Basic_C#_Programs\Enum-Demo\Enum-Demo\obj\Debug\Enum-Demo.pdb
