@@ -1,0 +1,7 @@
+C:\Users\William\Desktop\Basic_C#_Programs\Lambda-Function-Demo\Lambda-Function-Demo\bin\Debug\Lambda-Function-Demo.exe.config
+C:\Users\William\Desktop\Basic_C#_Programs\Lambda-Function-Demo\Lambda-Function-Demo\bin\Debug\Lambda-Function-Demo.exe
+C:\Users\William\Desktop\Basic_C#_Programs\Lambda-Function-Demo\Lambda-Function-Demo\bin\Debug\Lambda-Function-Demo.pdb
+C:\Users\William\Desktop\Basic_C#_Programs\Lambda-Function-Demo\Lambda-Function-Demo\obj\Debug\Lambda-Function-Demo.csproj.AssemblyReference.cache
+C:\Users\William\Desktop\Basic_C#_Programs\Lambda-Function-Demo\Lambda-Function-Demo\obj\Debug\Lambda-Function-Demo.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\Basic_C#_Programs\Lambda-Function-Demo\Lambda-Function-Demo\obj\Debug\Lambda-Function-Demo.exe
+C:\Users\William\Desktop\Basic_C#_Programs\Lambda-Function-Demo\Lambda-Function-Demo\obj\Debug\Lambda-Function-Demo.pdb
