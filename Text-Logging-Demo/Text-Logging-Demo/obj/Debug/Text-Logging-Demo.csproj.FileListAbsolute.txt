@@ -1,0 +1,6 @@
+C:\Users\William\Desktop\Basic_C#_Programs\Text-Logging-Demo\Text-Logging-Demo\bin\Debug\Text-Logging-Demo.exe.config
+C:\Users\William\Desktop\Basic_C#_Programs\Text-Logging-Demo\Text-Logging-Demo\bin\Debug\Text-Logging-Demo.exe
+C:\Users\William\Desktop\Basic_C#_Programs\Text-Logging-Demo\Text-Logging-Demo\bin\Debug\Text-Logging-Demo.pdb
+C:\Users\William\Desktop\Basic_C#_Programs\Text-Logging-Demo\Text-Logging-Demo\obj\Debug\Text-Logging-Demo.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\Basic_C#_Programs\Text-Logging-Demo\Text-Logging-Demo\obj\Debug\Text-Logging-Demo.exe
+C:\Users\William\Desktop\Basic_C#_Programs\Text-Logging-Demo\Text-Logging-Demo\obj\Debug\Text-Logging-Demo.pdb
