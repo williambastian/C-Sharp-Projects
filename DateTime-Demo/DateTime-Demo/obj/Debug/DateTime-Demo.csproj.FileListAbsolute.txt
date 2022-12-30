@@ -1,0 +1,7 @@
+C:\Users\William\Desktop\Basic_C#_Programs\DateTime-Demo\DateTime-Demo\bin\Debug\DateTime-Demo.exe.config
+C:\Users\William\Desktop\Basic_C#_Programs\DateTime-Demo\DateTime-Demo\bin\Debug\DateTime-Demo.exe
+C:\Users\William\Desktop\Basic_C#_Programs\DateTime-Demo\DateTime-Demo\bin\Debug\DateTime-Demo.pdb
+C:\Users\William\Desktop\Basic_C#_Programs\DateTime-Demo\DateTime-Demo\obj\Debug\DateTime-Demo.csproj.AssemblyReference.cache
+C:\Users\William\Desktop\Basic_C#_Programs\DateTime-Demo\DateTime-Demo\obj\Debug\DateTime-Demo.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\Basic_C#_Programs\DateTime-Demo\DateTime-Demo\obj\Debug\DateTime-Demo.exe
+C:\Users\William\Desktop\Basic_C#_Programs\DateTime-Demo\DateTime-Demo\obj\Debug\DateTime-Demo.pdb
