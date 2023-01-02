@@ -14,19 +14,16 @@ namespace Chained_Constructors_Demo
         public string Color { get; set; }
 
         // create default constructor - if no parameters are entered, property values default to these
-        public Animals()
-        {
-            Species = "Unknown";
-            Sex = "Unknown";
-            Color = "Unknown";
+        public Animals() : this("Unknown", "Unknown", "Unknown")
+        {             
         }
 
         // chained constructor - allows for property values to be specified upon construction
-        public Animals(string species, string sex, string color) : this()
+        public Animals(string species, string sex, string color)
         {
-            Species = species;
-            Sex = sex;
-            Color = color;
+            this.Species = species;
+            this.Sex = sex;
+            this.Color = color;
         }
         
 
