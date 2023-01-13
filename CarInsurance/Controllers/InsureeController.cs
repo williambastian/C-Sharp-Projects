@@ -58,7 +58,7 @@ namespace CarInsurance.Controllers
             decimal ageFee = 0.00m;
             decimal carYearFee = 0.00m;
             decimal carMakeFee = 0.00m;
-            decimal speedingFee = ((insuree.SpeedingTickets) * 10.00m);
+            decimal speedingFee = 0.00m; 
 
             var insureeAge = Convert.ToInt32((DateTime.Now - insuree.DateOfBirth).TotalDays / 365);
             if (insureeAge <= 18)
@@ -91,6 +91,11 @@ namespace CarInsurance.Controllers
             {
                 carMakeFee = carMakeFee + 25.00m;
             }
+            if (insuree.SpeedingTickets > 0)
+            {
+                speedingFee = ((insuree.SpeedingTickets) * 10.00m);
+            }
+            
             var preDUIsubTotal = baseRate + ageFee + carYearFee + carMakeFee + speedingFee;
 
             var postDUIsurCharge = preDUIsubTotal / 4;
