@@ -1,0 +1,10 @@
+C:\Users\William\Desktop\Basic_C#_Programs\TwentyOne-Game\TwentyOne-Game\bin\Debug\TwentyOne-Game.exe.config
+C:\Users\William\Desktop\Basic_C#_Programs\TwentyOne-Game\TwentyOne-Game\bin\Debug\TwentyOne-Game.exe
+C:\Users\William\Desktop\Basic_C#_Programs\TwentyOne-Game\TwentyOne-Game\bin\Debug\TwentyOne-Game.pdb
+C:\Users\William\Desktop\Basic_C#_Programs\TwentyOne-Game\TwentyOne-Game\bin\Debug\Casino.dll
+C:\Users\William\Desktop\Basic_C#_Programs\TwentyOne-Game\TwentyOne-Game\bin\Debug\Casino.pdb
+C:\Users\William\Desktop\Basic_C#_Programs\TwentyOne-Game\TwentyOne-Game\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\William\Desktop\Basic_C#_Programs\TwentyOne-Game\TwentyOne-Game\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\Basic_C#_Programs\TwentyOne-Game\TwentyOne-Game\obj\Debug\TwentyOne.csproj.CopyComplete
+C:\Users\William\Desktop\Basic_C#_Programs\TwentyOne-Game\TwentyOne-Game\obj\Debug\TwentyOne-Game.exe
+C:\Users\William\Desktop\Basic_C#_Programs\TwentyOne-Game\TwentyOne-Game\obj\Debug\TwentyOne-Game.pdb
