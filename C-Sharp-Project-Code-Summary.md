@@ -213,7 +213,7 @@ namespace TheatreCMS3.Areas.Prod.Controllers
 ###
 
 # Story 6: 
-Change details page functionality to be a modal pop-up instead of a link to a separate page. When clicking a production's card, a modal with that production's details is shown. The class "stretched-link" is used to create an <a href> for the entire card body. Bootstrap 4.6 used for modal classes.
+Change details page functionality to be a modal pop-up instead of a link to a separate page. When clicking a production's card, a modal with that production's details is shown. The class "stretched-link" is used to create an < a href > for the entire card body. Bootstrap 4.6 used for modal classes.
 
 Example: [Details Modal](https://github.com/williambastian/C-Sharp-Projects/blob/master/C-Sharp-Project/images/Story-06-Snippet.JPG)
 
