@@ -18,6 +18,8 @@ The individual work items I completed are listed, and then summarized below.
 
 I created the Home Page layout per the client's requests. This included their company logo, an asymmetrical two column layout beneath the logo, and the sections within each column. The left column contained the "Spotlight" section, which showed poster images for upcoming stage productions, and the "Land Acknowledgement" section, which contained specific language provided by the client regarding the property. The right column contained a "Donations" section, with a button directing users to a separate donations page, and a "Sponsors" Section, with client-provided sponsor logos.
 
+Example: [Home Page with Styling](https://github.com/williambastian/C-Sharp-Projects/blob/master/C-Sharp-Project/images/Story-01-Snippet.JPG)
+
 ###
 
 # Story 2: Create entity model and CRUD functionality for website's "Production" section. This section shows what Productions, aka stage plays, will be performed by the client, which is a performing arts theatre.
@@ -57,6 +59,8 @@ Model: Production.cs
 # Story 3: Style the Create and Edit pages for the "Production" section. 
 
 The Create and Edit pages for the Production section required styling in line with the client's style guide. Changes included adding a header above the form with updated text "Create Production,"; styling the Submit and Back to List buttons with the client's color palette and hover effects; adding placeholders to all input fields; placing form in a centered container; adding effects to the input fields such as borders and color changes when they are active. These style changes were primarily made using HTML and CSS.
+
+Example: []
 
 # Example form field from Create.cs:
 
