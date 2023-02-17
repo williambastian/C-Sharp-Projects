@@ -60,7 +60,7 @@ Model: Production.cs
 
 The Create and Edit pages for the Production section required styling in line with the client's style guide. Changes included adding a header above the form with updated text "Create Production,"; styling the Submit and Back to List buttons with the client's color palette and hover effects; adding placeholders to all input fields; placing form in a centered container; adding effects to the input fields such as borders and color changes when they are active. These style changes were primarily made using HTML and CSS.
 
-Example: []
+Examples: [Create Page](https://github.com/williambastian/C-Sharp-Projects/blob/master/C-Sharp-Project/images/Story-03-Create-Snippet.JPG), [Edit Page](https://github.com/williambastian/C-Sharp-Projects/blob/master/C-Sharp-Project/images/Story-03-Edit-Snippet.JPG)
 
 # Example form field from Create.cs:
 
@@ -129,9 +129,15 @@ Example: []
     </div>
 </div>
 
+Example: [Index Page](https://github.com/williambastian/C-Sharp-Projects/blob/master/C-Sharp-Project/images/Story-03-Snippet.JPG)
+
 ###
 
 # Story 5: Add search and pagination functionality to index of Production section.
+
+The search bar and pagination links can be seen in the example index image above, also linked here: [Index Page](https://github.com/williambastian/C-Sharp-Projects/blob/master/C-Sharp-Project/images/Story-03-Snippet.JPG)
+
+Example showing search results: [Search Results](https://github.com/williambastian/C-Sharp-Projects/blob/master/C-Sharp-Project/images/Story-05-Search-Snippet.JPG)
 
 # Search functionality in index.cshtml:
 
@@ -208,6 +214,8 @@ namespace TheatreCMS3.Areas.Prod.Controllers
 
 # Story 6: 
 Change details page functionality to be a modal pop-up instead of a link to a separate page. When clicking a production's card, a modal with that production's details is shown. The class "stretched-link" is used to create an <a href> for the entire card body. Bootstrap 4.6 used for modal classes.
+
+Example: [Details Modal](https://github.com/williambastian/C-Sharp-Projects/blob/master/C-Sharp-Project/images/Story-06-Snippet.JPG)
 
 Modal functionality from Index.cs, with logic to show each item's details:
 
