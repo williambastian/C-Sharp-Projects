@@ -60,7 +60,7 @@ Model: Production.cs
 
 The Create and Edit pages for the Production section required styling in line with the client's style guide. Changes included adding a header above the form with updated text "Create Production,"; styling the Submit and Back to List buttons with the client's color palette and hover effects; adding placeholders to all input fields; placing form in a centered container; adding effects to the input fields such as borders and color changes when they are active. These style changes were primarily made using HTML and CSS.
 
-Examples: [Create Page](https://github.com/williambastian/C-Sharp-Projects/blob/master/C-Sharp-Project/images/Story-03-Create-Snippet.JPG), [Edit Page](https://github.com/williambastian/C-Sharp-Projects/blob/master/C-Sharp-Project/images/Story-03-Edit-Snippet.JPG)
+Examples: [Create Page](https://github.com/williambastian/C-Sharp-Projects/blob/master/C-Sharp-Live-Project/images/Story-03-Create-Snippet.JPG), [Edit Page](https://github.com/williambastian/C-Sharp-Projects/blob/master/C-Sharp-Live-Project/images/Story-03-Edit-Snippet.JPG)
 
 # Example form field from Create.cs:
 
