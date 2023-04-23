@@ -129,7 +129,7 @@ Examples: [Create Page](https://github.com/williambastian/C-Sharp-Projects/blob/
     </div>
 </div>
 
-Example: [Index Page](https://github.com/williambastian/C-Sharp-Projects/blob/master/C-Sharp-Project/images/Story-03-Snippet.JPG)
+Example: [Index Page](https://github.com/williambastian/C-Sharp-Projects/blob/master/C-Sharp-Live-Project/images/Story-03-Snippet.JPG)
 
 ###
 
