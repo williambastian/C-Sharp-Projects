@@ -135,9 +135,9 @@ Example: [Index Page](https://github.com/williambastian/C-Sharp-Projects/blob/ma
 
 # Story 5: Add search and pagination functionality to index of Production section.
 
-The search bar and pagination links can be seen in the example index image above, also linked here: [Index Page](https://github.com/williambastian/C-Sharp-Projects/blob/master/C-Sharp-Project/images/Story-03-Snippet.JPG)
+The search bar and pagination links can be seen in the example index image above, also linked here: [Index Page](https://github.com/williambastian/C-Sharp-Projects/blob/master/C-Sharp-Live-Project/images/Story-03-Snippet.JPG)
 
-Example showing search results: [Search Results](https://github.com/williambastian/C-Sharp-Projects/blob/master/C-Sharp-Project/images/Story-05-Search-Snippet.JPG)
+Example showing search results: [Search Results](https://github.com/williambastian/C-Sharp-Projects/blob/master/C-Sharp-Live-Project/images/Story-05-Search-Snippet.JPG)
 
 # Search functionality in index.cshtml:
 
