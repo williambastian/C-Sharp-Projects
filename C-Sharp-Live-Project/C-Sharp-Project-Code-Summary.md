@@ -18,7 +18,7 @@ The individual work items I completed are listed, and then summarized below.
 
 I created the Home Page layout per the client's requests. This included their company logo, an asymmetrical two column layout beneath the logo, and the sections within each column. The left column contained the "Spotlight" section, which showed poster images for upcoming stage productions, and the "Land Acknowledgement" section, which contained specific language provided by the client regarding the property. The right column contained a "Donations" section, with a button directing users to a separate donations page, and a "Sponsors" Section, with client-provided sponsor logos.
 
-Example: [Home Page with Styling](https://github.com/williambastian/C-Sharp-Projects/blob/master/C-Sharp-Project/images/Story-01-Snippet.JPG)
+Example: [Home Page with Styling](https://github.com/williambastian/C-Sharp-Projects/blob/master/C-Sharp-Live-Project/images/Story-01-Snippet.JPG)
 
 ###
 
